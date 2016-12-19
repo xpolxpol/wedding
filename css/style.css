@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 @font-face {
-font-family: 'Ouverture script';
+font-family: "Ouverture script";
 src: url('/fonts/Ouverture_script.ttf');
 }
 
@@ -118,7 +118,7 @@ text-shadow: rgb(242, 242, 242) 0px 0px 0px;
   margin: 0;
   padding: 0;
   line-height: 40px;
-  font-family: "Sacramento", Arial, serif;
+  font-family: "Ouverture script";
 }
 .fh5co-nav a {
   padding: 5px 10px;
