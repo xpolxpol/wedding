@@ -98,6 +98,21 @@ h1, h2, h3, h4, h5, h6, figure {
     padding: 20px 0;
   }
 }
+
+@font-face {
+font-family: 'Ouverture script';
+src: url('/Kalligrafika/Ouverture_script.ttf');
+}
+
+.text_effect {
+font-family: 'Ouverture script';
+color: rgb(255, 145, 145);
+font-size: 72px;
+background-color: rgb(255, 255, 255);
+text-shadow: rgb(242, 242, 242) 0px 0px 0px;
+}
+
+
 .fh5co-nav #fh5co-logo {
   font-size: 40px;
   margin: 0;
